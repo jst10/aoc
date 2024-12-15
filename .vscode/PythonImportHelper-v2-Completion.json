@@ -1,0 +1,1284 @@
+[
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "PriorityQueue",
+        "importPath": "queue",
+        "description": "queue",
+        "isExtraImport": true,
+        "detail": "queue",
+        "documentation": {}
+    },
+    {
+        "label": "heapq",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "heapq",
+        "description": "heapq",
+        "detail": "heapq",
+        "documentation": {}
+    },
+    {
+        "label": "read_file_content",
+        "kind": 2,
+        "importPath": "2023.main.1.main",
+        "description": "2023.main.1.main",
+        "peekOfCode": "def read_file_content(file_path:str) -> list[str]:\n    with open(file_path, 'r') as file:\n        for line in file:\n            ls=line.strip().rstrip('\\n')\n            if not ls:\n                continue\n            yield ls\ndef extract_number_from_line(line:str)->int:\n    first_digit=None\n    last_digit=None",
+        "detail": "2023.main.1.main",
+        "documentation": {}
+    },
+    {
+        "label": "extract_number_from_line",
+        "kind": 2,
+        "importPath": "2023.main.1.main",
+        "description": "2023.main.1.main",
+        "peekOfCode": "def extract_number_from_line(line:str)->int:\n    first_digit=None\n    last_digit=None\n    for c in line:\n        if not c.isdigit():\n            continue\n        if first_digit is None:\n            first_digit=c\n        last_digit=c\n    number=f'{first_digit}{last_digit}'",
+        "detail": "2023.main.1.main",
+        "documentation": {}
+    },
+    {
+        "label": "extract_number_from_line2",
+        "kind": 2,
+        "importPath": "2023.main.1.main",
+        "description": "2023.main.1.main",
+        "peekOfCode": "def extract_number_from_line2(line:str)->int:\n    first_index=99999999999\n    first_digit=None\n    last_index=-1\n    last_digit=None\n    for key in NUMBERS.keys():\n        key_first_index = line.find(key)\n        key_last_index = line.rfind(key)\n        if key_first_index==-1:\n            continue",
+        "detail": "2023.main.1.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2023.main.1.main",
+        "description": "2023.main.1.main",
+        "peekOfCode": "def do_your_magic1():\n    lines=read_file_content(FILE)\n    s=0\n    for l in lines:\n        n=extract_number_from_line2(l)\n        s+=n\n    print('Total sum is: ', s)\ndo_your_magic1()",
+        "detail": "2023.main.1.main",
+        "documentation": {}
+    },
+    {
+        "label": "Point",
+        "kind": 6,
+        "importPath": "2023.main.10.main",
+        "description": "2023.main.10.main",
+        "peekOfCode": "class Point:\n    def __init__(self,x,y) -> None:\n        self.x=x\n        self.y=y\n    def are_the_same(self,p2):\n        return self.x==p2.x and self.y==p2.y\n    def key(self):\n        return f'{self.x}|{self.y}'\n    def __repr__(self) -> str:\n        return f'({self.x}, {self.y})'",
+        "detail": "2023.main.10.main",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "kind": 6,
+        "importPath": "2023.main.10.main",
+        "description": "2023.main.10.main",
+        "peekOfCode": "class Field:\n    def __init__(self,location:Point,c:str) -> None:\n        self.location=location\n        self.c=c\n    def get_next_point(self,first_point):\n        if self.is_ground():\n            return None\n        points=self.get_touching_points()\n        found=False\n        next_points=[]",
+        "detail": "2023.main.10.main",
+        "documentation": {}
+    },
+    {
+        "label": "is_point_inside_loop",
+        "kind": 2,
+        "importPath": "2023.main.10.main",
+        "description": "2023.main.10.main",
+        "peekOfCode": "def is_point_inside_loop(p, points):\n    n = len(points)\n    count = 0\n    for i in range(n):\n        p1 = points[i]\n        p2 = points[(i + 1) % n]\n        if p1.y == p2.y:\n            continue\n        if min(p1.y, p2.y) < p.y <= max(p1.y, p2.y):\n            x_intersect = p1.x + (p.y - p1.y) * (p2.x - p1.x) / (p2.y - p1.y)",
+        "detail": "2023.main.10.main",
+        "documentation": {}
+    },
+    {
+        "label": "find_points_in_close_loop",
+        "kind": 2,
+        "importPath": "2023.main.10.main",
+        "description": "2023.main.10.main",
+        "peekOfCode": "def find_points_in_close_loop(points:list[Point]):\n    x_min = min(p.x for p in points)\n    x_max = max(p.x for p in points)\n    y_min = min(p.y for p in points)\n    y_max = max(p.y for p in points)\n    inside_points = []\n    points_set={p.key() for p in points}\n    for x in range(x_min, x_max + 1):\n        for y in range(y_min, y_max + 1):\n            p=Point(x=x,y=y)",
+        "detail": "2023.main.10.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2023.main.10.main",
+        "description": "2023.main.10.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    fields=defaultdict(dict)\n    h=len(lines)\n    w=len(lines[0])\n    sp=None\n    for i,l in enumerate(lines):\n        for j,c in enumerate(l):\n            location=Point(x=j,y=i)",
+        "detail": "2023.main.10.main",
+        "documentation": {}
+    },
+    {
+        "label": "Galaxy",
+        "kind": 6,
+        "importPath": "2023.main.11.main",
+        "description": "2023.main.11.main",
+        "peekOfCode": "class Galaxy:\n    def __init__(self,x:int,y:int) -> None:\n        self.x=x\n        self.y=y\n    def __repr__(self) -> str:\n        return f'{self.x},{self.y}'\ndef distance(g1,g2):\n    return abs(g2.y-g1.y)+abs(g2.x-g1.x)\ndef do_your_magic1():\n    s=0",
+        "detail": "2023.main.11.main",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 2,
+        "importPath": "2023.main.11.main",
+        "description": "2023.main.11.main",
+        "peekOfCode": "def distance(g1,g2):\n    return abs(g2.y-g1.y)+abs(g2.x-g1.x)\ndef do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    galaxies=[]\n    rows_with_galaxy={}\n    columns_with_galaxy={}\n    for i, l in enumerate(lines):\n        for j,c in enumerate(l):",
+        "detail": "2023.main.11.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2023.main.11.main",
+        "description": "2023.main.11.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    galaxies=[]\n    rows_with_galaxy={}\n    columns_with_galaxy={}\n    for i, l in enumerate(lines):\n        for j,c in enumerate(l):\n            if c=='#':\n                rows_with_galaxy[i]=True",
+        "detail": "2023.main.11.main",
+        "documentation": {}
+    },
+    {
+        "label": "count_posibilities_slow",
+        "kind": 2,
+        "importPath": "2023.main.12.main",
+        "description": "2023.main.12.main",
+        "peekOfCode": "def count_posibilities_slow(text, patterns, c_sq=0):\n    t_i=0\n    p_i=0\n    new_text=''\n    for t_i, character in enumerate(text):\n        if c_sq and p_i>=len(patterns):\n            return []\n        if character=='.':\n            new_text+='.'\n            if c_sq!=0:",
+        "detail": "2023.main.12.main",
+        "documentation": {}
+    },
+    {
+        "label": "count_posibilities_fast",
+        "kind": 2,
+        "importPath": "2023.main.12.main",
+        "description": "2023.main.12.main",
+        "peekOfCode": "def count_posibilities_fast(text, patterns):\n    t_l=len(text)\n    p_l=len(patterns)\n#    2 3 4\n#   .\n#   #\n#   .\ndef do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))",
+        "detail": "2023.main.12.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2023.main.12.main",
+        "description": "2023.main.12.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    for l in lines:\n        parts=l.split(' ')\n        text=parts[0]\n        groups=[int(n) for n in parts[1].split(',')]\n        unfoled_text=text\n        unfoled_groups=list(groups)\n        for i in range(0):",
+        "detail": "2023.main.12.main",
+        "documentation": {}
+    },
+    {
+        "label": "Game",
+        "kind": 6,
+        "importPath": "2023.main.2.main",
+        "description": "2023.main.2.main",
+        "peekOfCode": "class Game:\n    def __init__(self,id:int,reveals:list[dict]) -> None:\n        self.id=id\n        self.reveals=reveals\n    def can_be_played_with_boxes(self,boxes:{})->bool:\n        for r in self.reveals:\n            for color, count in r.items():\n                if color not in boxes:\n                    return False\n                if boxes[color]<count:",
+        "detail": "2023.main.2.main",
+        "documentation": {}
+    },
+    {
+        "label": "read_file_content",
+        "kind": 2,
+        "importPath": "2023.main.2.main",
+        "description": "2023.main.2.main",
+        "peekOfCode": "def read_file_content(file_path:str) -> list[str]:\n    with open(file_path, 'r') as file:\n        for line in file:\n            ls=line.strip().rstrip('\\n')\n            if not ls:\n                continue\n            yield ls\ndef do_your_magic1():\n    lines=read_file_content(FILE)\n    boxes={",
+        "detail": "2023.main.2.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2023.main.2.main",
+        "description": "2023.main.2.main",
+        "peekOfCode": "def do_your_magic1():\n    lines=read_file_content(FILE)\n    boxes={\n        \"red\":12,\n        \"green\":13,\n        \"blue\":14,\n    }\n    s=0\n    p_sum=0\n    for l in lines:",
+        "detail": "2023.main.2.main",
+        "documentation": {}
+    },
+    {
+        "label": "Point3d",
+        "kind": 6,
+        "importPath": "2023.main.22.main",
+        "description": "2023.main.22.main",
+        "peekOfCode": "class Point3d():\n    def __init__(self,x:int,y:int,z:int) -> None:\n        self.x=x\n        self.y=y\n        self.z=z\n    def move_down(self):\n        self.z-=1\n    def move_up(self):\n        self.z+=1\n    def move_left(self):",
+        "detail": "2023.main.22.main",
+        "documentation": {}
+    },
+    {
+        "label": "Brick",
+        "kind": 6,
+        "importPath": "2023.main.22.main",
+        "description": "2023.main.22.main",
+        "peekOfCode": "class Brick():\n    def __init__(self,id,sp,ep) -> None:\n        self.id=id\n        self.sp=sp\n        self.ep=ep\n        self.below_bricks=set()\n        self.above_bricks=set()\n    @property\n    def min_z(self):\n        return min(self.sp.z,self.ep.z)",
+        "detail": "2023.main.22.main",
+        "documentation": {}
+    },
+    {
+        "label": "has_anything_under",
+        "kind": 2,
+        "importPath": "2023.main.22.main",
+        "description": "2023.main.22.main",
+        "peekOfCode": "def has_anything_under(taken_area, brick):\n    pb=brick.points_below()\n    for p in pb:\n        if p in taken_area:\n            return True\n    return False\ndef count_above_that_will_fall(db,bricks)->int:\n    number_of_supporting_bricks = {}\n    for b in bricks:\n        number_of_supporting_bricks[b]=len(b.below_bricks)",
+        "detail": "2023.main.22.main",
+        "documentation": {}
+    },
+    {
+        "label": "count_above_that_will_fall",
+        "kind": 2,
+        "importPath": "2023.main.22.main",
+        "description": "2023.main.22.main",
+        "peekOfCode": "def count_above_that_will_fall(db,bricks)->int:\n    number_of_supporting_bricks = {}\n    for b in bricks:\n        number_of_supporting_bricks[b]=len(b.below_bricks)\n    q = [db]\n    count = -1\n    while len(q) > 0:\n        count += 1\n        b = q.pop()\n        #print(b,len(b.above_bricks),len(b.below_bricks))",
+        "detail": "2023.main.22.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2023.main.22.main",
+        "description": "2023.main.22.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    bricks=[]\n    # read brickes from file\n    for l in lines:\n        b=Brick.from_input(len(bricks),l)\n        bricks.append(b)\n    # let the gravity to its things\n    bricks=sorted(bricks,key=lambda x:x.min_z,reverse=False)",
+        "detail": "2023.main.22.main",
+        "documentation": {}
+    },
+    {
+        "label": "read_file_content",
+        "kind": 2,
+        "importPath": "2023.main.3.main",
+        "description": "2023.main.3.main",
+        "peekOfCode": "def read_file_content(file_path:str) -> list[str]:\n    with open(file_path, 'r') as file:\n        for line in file:\n            ls=line.strip().rstrip('\\n')\n            if not ls:\n                continue\n            yield ls\ndef is_symbol(c):\n    v= c is not None and c!='.' and not c.isdigit()\n    return v",
+        "detail": "2023.main.3.main",
+        "documentation": {}
+    },
+    {
+        "label": "is_symbol",
+        "kind": 2,
+        "importPath": "2023.main.3.main",
+        "description": "2023.main.3.main",
+        "peekOfCode": "def is_symbol(c):\n    v= c is not None and c!='.' and not c.isdigit()\n    return v\ndef get_item(data,index):\n    if not data or index<0 or index>=len(data):\n        return None\n    return data[index]\ndef extract_stars(ll,li,si,ei):\n    stars=[]\n    for i in [li-1,li,li+1]:",
+        "detail": "2023.main.3.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_item",
+        "kind": 2,
+        "importPath": "2023.main.3.main",
+        "description": "2023.main.3.main",
+        "peekOfCode": "def get_item(data,index):\n    if not data or index<0 or index>=len(data):\n        return None\n    return data[index]\ndef extract_stars(ll,li,si,ei):\n    stars=[]\n    for i in [li-1,li,li+1]:\n        if i<0 or i>=len(ll):\n            continue\n        line=ll[i] ",
+        "detail": "2023.main.3.main",
+        "documentation": {}
+    },
+    {
+        "label": "extract_stars",
+        "kind": 2,
+        "importPath": "2023.main.3.main",
+        "description": "2023.main.3.main",
+        "peekOfCode": "def extract_stars(ll,li,si,ei):\n    stars=[]\n    for i in [li-1,li,li+1]:\n        if i<0 or i>=len(ll):\n            continue\n        line=ll[i] \n        for j in range(si,ei):\n            item=get_item(line,j)\n            if item=='*':\n                stars.append(str(i)+'|'+str(j))",
+        "detail": "2023.main.3.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2023.main.3.main",
+        "description": "2023.main.3.main",
+        "peekOfCode": "def do_your_magic1():\n    lines=list(read_file_content(FILE))\n    numbers=[]\n    nl=len(lines)\n    s=0\n    sd={}\n    for i in range(nl):\n        previsou_line=lines[i-1] if i>0 else None\n        current_line=lines[i]\n        next_line=lines[i+1] if nl>i+1 else None",
+        "detail": "2023.main.3.main",
+        "documentation": {}
+    },
+    {
+        "label": "Card",
+        "kind": 6,
+        "importPath": "2023.main.4.main",
+        "description": "2023.main.4.main",
+        "peekOfCode": "class Card:\n    def __init__(self,id:int,wining_nums:set,my_nums:set) -> None:\n        self.id=id\n        self.wining_nums=wining_nums\n        self.my_nums=my_nums\n    def get_points(self)->int:\n        matches=self.get_matches()\n        return pow(2,(matches-1))\n    def get_matches(self)->int:\n        matches=0",
+        "detail": "2023.main.4.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2023.main.4.main",
+        "description": "2023.main.4.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    cardsCounter=defaultdict(int)\n    for l in lines:\n        c=Card.from_input(l)\n        cardsCounter[c.id]+=1\n        m=c.get_matches()\n        for i in range(m):\n            cardsCounter[c.id+(i+1)]+=cardsCounter[c.id]",
+        "detail": "2023.main.4.main",
+        "documentation": {}
+    },
+    {
+        "label": "Rule",
+        "kind": 6,
+        "importPath": "2023.main.5.main",
+        "description": "2023.main.5.main",
+        "peekOfCode": "class Rule():\n    def __init__(self,src,dst,rng):\n        self.src=src\n        self.dst=dst\n        self.rng=rng\n    def merge(self, other)->bool:\n        if self.src<=other.src and self.src+self.rng>=other.src+other.rng:\n            if self.map_src(other.src)==other.map_src(other.src):\n                return True\n        elif other.src<=self.src and other.src+other.rng>=self.src+self.rng:",
+        "detail": "2023.main.5.main",
+        "documentation": {}
+    },
+    {
+        "label": "Mapper",
+        "kind": 6,
+        "importPath": "2023.main.5.main",
+        "description": "2023.main.5.main",
+        "peekOfCode": "class Mapper:\n    def __init__(self):\n        self.rules=[]\n    def add_rule(self,src:int,dst:int,rng:int):\n        r=Rule(src=src,dst=dst,rng=rng)\n        self.rules.append(r)\n    def set_rules(self,rules:list):\n        self.rules=rules\n    def map_src_to_dst(self,src:int)->int:\n        for r in self.rules:",
+        "detail": "2023.main.5.main",
+        "documentation": {}
+    },
+    {
+        "label": "parse_seeds_from_line",
+        "kind": 2,
+        "importPath": "2023.main.5.main",
+        "description": "2023.main.5.main",
+        "peekOfCode": "def parse_seeds_from_line(line)->list[int]:\n    r1='seeds:\\s*(.*)'\n    m1 = re.match(r1, line)\n    if not m1:\n        print(\"Invalid line:\",m1)\n        return\n    numbers=[int(n) for n in m1.group(1).strip().split(' ')]\n    return numbers\nclass Rule():\n    def __init__(self,src,dst,rng):",
+        "detail": "2023.main.5.main",
+        "documentation": {}
+    },
+    {
+        "label": "parse_seeds_from_line2",
+        "kind": 2,
+        "importPath": "2023.main.5.main",
+        "description": "2023.main.5.main",
+        "peekOfCode": "def parse_seeds_from_line2(line)->Mapper:\n    numbers=parse_seeds_from_line(line)\n    m=Mapper()\n    for i in range(0,len(numbers),2):\n        id=numbers[i]\n        rng=numbers[i+1]\n        m.add_rule(src=id,dst=id,rng=rng)\n    return m\ndef parse_map_data(lines,i):\n    count=0",
+        "detail": "2023.main.5.main",
+        "documentation": {}
+    },
+    {
+        "label": "parse_map_data",
+        "kind": 2,
+        "importPath": "2023.main.5.main",
+        "description": "2023.main.5.main",
+        "peekOfCode": "def parse_map_data(lines,i):\n    count=0\n    m=Mapper()\n    # since I don't have empty lines and don't want to use regex\n    # I am just cheking if line contains map, so that I know it is over\n    while (i+count)<len(lines) and 'map' not in lines[i+count]:\n        l=lines[i+count]\n        count+=1\n        numbers= [int(n) for n in l.strip().split(' ')]\n        dst=numbers[0]",
+        "detail": "2023.main.5.main",
+        "documentation": {}
+    },
+    {
+        "label": "p1",
+        "kind": 2,
+        "importPath": "2023.main.5.main",
+        "description": "2023.main.5.main",
+        "peekOfCode": "def p1(seed_ids:list[int],mappers:dict[str,Mapper])->tuple[int, int]:\n    seed_to_location={seed_id:seed_id for seed_id in seed_ids}\n    for map_name in different_maps:\n        mapper=mappers[map_name]\n        for seed_id in seed_ids:\n            seed_to_location[seed_id]=mapper.map_src_to_dst(seed_to_location[seed_id])\n        #if seed_id==13:\n        #    print(seed_id,'->',seed_to_location[seed_id])\n    min_location=None\n    seed_min_location=None",
+        "detail": "2023.main.5.main",
+        "documentation": {}
+    },
+    {
+        "label": "p2",
+        "kind": 2,
+        "importPath": "2023.main.5.main",
+        "description": "2023.main.5.main",
+        "peekOfCode": "def p2(start_mapper:Mapper,mappers:dict[str,Mapper])->tuple[int, int]:\n    start_mapper.sort_rules_by_dst()\n    active_mapper=start_mapper\n    for map_name in different_maps:\n        m=mappers[map_name]\n        all_new_rules=[]\n        m.sort_rules_by_src()\n        for r in active_mapper.rules:\n            new_rules=m.map_rule(r)\n            all_new_rules.extend(new_rules)",
+        "detail": "2023.main.5.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2023.main.5.main",
+        "description": "2023.main.5.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    i=0\n    seed_ids=[]\n    mappers={}\n    while i<len(lines):\n        l=lines[i].strip()\n        i+=1\n        if l=='':",
+        "detail": "2023.main.5.main",
+        "documentation": {}
+    },
+    {
+        "label": "calculates_ways_to_beat",
+        "kind": 2,
+        "importPath": "2023.main.6.main",
+        "description": "2023.main.6.main",
+        "peekOfCode": "def calculates_ways_to_beat(duration:int,best_distance:int)->int:\n    # v=t*a\n    # d=t*v\n    w=0\n    for i in range(1,duration):\n        d=(duration-i)*i\n        if d>best_distance:\n            w+=1\n    return w\ndef do_your_magic1():",
+        "detail": "2023.main.6.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2023.main.6.main",
+        "description": "2023.main.6.main",
+        "peekOfCode": "def do_your_magic1():\n    r=1\n    for duration,best_distance in RACES.items():\n        ways_to_beat=calculates_ways_to_beat(\n            duration=duration,\n            best_distance=best_distance,\n        )\n        r*=ways_to_beat\n    print('done')\n    print(r)",
+        "detail": "2023.main.6.main",
+        "documentation": {}
+    },
+    {
+        "label": "Hand",
+        "kind": 6,
+        "importPath": "2023.main.7.main",
+        "description": "2023.main.7.main",
+        "peekOfCode": "class Hand:\n    def __init__(self,cards:list,bid:int) -> None:\n        self.cards=cards\n        self.bid=bid\n        self.cards_map=defaultdict(int)\n        self.j_count=0\n        for c in cards:\n            self.cards_map[c]+=1\n            if c=='J':\n                self.j_count+=1",
+        "detail": "2023.main.7.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2023.main.7.main",
+        "description": "2023.main.7.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    hands=[]\n    lines=list(utils.read_file_content(FILE))\n    for l in lines:\n        h=Hand.from_input(l)\n        hands.append(h)\n    hands.sort(key=lambda h: h.score, reverse=False)\n    t=0\n    for i,h in enumerate(hands):",
+        "detail": "2023.main.7.main",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "2023.main.8.main",
+        "description": "2023.main.8.main",
+        "peekOfCode": "class Node():\n    def __init__(self,id:str,left:str,right:str) -> None:\n        self.id=id\n        self.left=left\n        self.right=right\n        self.is_start_node=self.id[2]=='A'\n        self.is_end_node=self.id[2]=='Z'\n    @staticmethod\n    def from_input(input:str):\n        m1 = re.match(r1, input)",
+        "detail": "2023.main.8.main",
+        "documentation": {}
+    },
+    {
+        "label": "compute_gcd",
+        "kind": 2,
+        "importPath": "2023.main.8.main",
+        "description": "2023.main.8.main",
+        "peekOfCode": "def compute_gcd(x, y):\n   while(y):\n       x, y = y, x % y\n   return x\ndef lcm(x, y):\n   lcm = (x*y)//compute_gcd(x,y)\n   return lcm\ndef lcm_of_list(numbers):\n    result = numbers[0]\n    for num in numbers[1:]:",
+        "detail": "2023.main.8.main",
+        "documentation": {}
+    },
+    {
+        "label": "lcm",
+        "kind": 2,
+        "importPath": "2023.main.8.main",
+        "description": "2023.main.8.main",
+        "peekOfCode": "def lcm(x, y):\n   lcm = (x*y)//compute_gcd(x,y)\n   return lcm\ndef lcm_of_list(numbers):\n    result = numbers[0]\n    for num in numbers[1:]:\n        result = lcm(result, num)\n    return result\ndef do_your_magic1():\n    s=0",
+        "detail": "2023.main.8.main",
+        "documentation": {}
+    },
+    {
+        "label": "lcm_of_list",
+        "kind": 2,
+        "importPath": "2023.main.8.main",
+        "description": "2023.main.8.main",
+        "peekOfCode": "def lcm_of_list(numbers):\n    result = numbers[0]\n    for num in numbers[1:]:\n        result = lcm(result, num)\n    return result\ndef do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    instructions=None\n    nodes=[]",
+        "detail": "2023.main.8.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2023.main.8.main",
+        "description": "2023.main.8.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    instructions=None\n    nodes=[]\n    for l in lines:\n        if instructions is None:\n            instructions=l\n            continue\n        n=Node.from_input(l)",
+        "detail": "2023.main.8.main",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "kind": 6,
+        "importPath": "2023.main.9.main",
+        "description": "2023.main.9.main",
+        "peekOfCode": "class Sequence:\n    def __init__(self,numbers=[]) -> None:\n        self.numbers=numbers\n    def prediction(self)->int:\n        return Sequence.prediction_r(self.numbers)\n    @staticmethod\n    def prediction_r(numbers:list[int])->int:\n        if Sequence.are_zeros(numbers):\n            return 0\n        diffs=Sequence.get_diffs(numbers)",
+        "detail": "2023.main.9.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2023.main.9.main",
+        "description": "2023.main.9.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    for l in lines:\n        sequence=Sequence.from_input(l)\n        s+=sequence.prediction()\n    print('done')\n    print(s)\ndo_your_magic1()",
+        "detail": "2023.main.9.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2023.main.boilerplate.main",
+        "description": "2023.main.boilerplate.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    for l in lines:\n        pass\n    print('done')\n    print(s)\ndo_your_magic1()",
+        "detail": "2023.main.boilerplate.main",
+        "documentation": {}
+    },
+    {
+        "label": "read_file_content",
+        "kind": 2,
+        "importPath": "2023.utils.utils",
+        "description": "2023.utils.utils",
+        "peekOfCode": "def read_file_content(file_path:str) -> list[str]:\n    with open(file_path, 'r') as file:\n        for line in file:\n            ls=line.strip().rstrip('\\n')\n            if not ls:\n                continue\n            yield ls",
+        "detail": "2023.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2024.main.1.main",
+        "description": "2024.main.1.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    list1=[]\n    list2=[]\n    for l in lines:\n        p=l.split('   ')\n        list1.append(int(p[0].strip()))\n        list2.append(int(p[1].strip()))\n    list1.sort()",
+        "detail": "2024.main.1.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_number_of_trailheads",
+        "kind": 2,
+        "importPath": "2024.main.10.main",
+        "description": "2024.main.10.main",
+        "peekOfCode": "def get_number_of_trailheads(map_data,location):\n    r, c=location\n    c_h=map_data[r][c]\n    if c_h==9:\n        return [[location]]\n    # left\n    sub_paths=[]\n    if c>0 and map_data[r][c-1]==c_h+1:\n        p=get_number_of_trailheads(map_data,(r,c-1))\n        sub_paths.extend(p)",
+        "detail": "2024.main.10.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2024.main.10.main",
+        "description": "2024.main.10.main",
+        "peekOfCode": "def do_your_magic1():\n    lines=list(utils.read_file_content(FILE))\n    map_data=[]\n    start_locations=[]\n    for i,l in enumerate(lines):\n        one_row_data=[]\n        for j,c in enumerate(l):\n            one_row_data.append(int(c))\n            if one_row_data[-1]==0:\n                start_locations.append((i,j))",
+        "detail": "2024.main.10.main",
+        "documentation": {}
+    },
+    {
+        "label": "split_stone_once",
+        "kind": 2,
+        "importPath": "2024.main.11.main",
+        "description": "2024.main.11.main",
+        "peekOfCode": "def split_stone_once(stone :int):\n    if stone==0:\n        return [1]\n    str_rp=str(stone)\n    if len(str_rp)%2==0:\n        middle=int(len(str_rp)/2)\n        n1=int(str_rp[:middle])\n        n2=int(str_rp[middle:])\n        return [n1,n2]\n    return [stone*2024]",
+        "detail": "2024.main.11.main",
+        "documentation": {}
+    },
+    {
+        "label": "split_stone_n_time",
+        "kind": 2,
+        "importPath": "2024.main.11.main",
+        "description": "2024.main.11.main",
+        "peekOfCode": "def split_stone_n_time(stone :int,n:int):\n    one_time_parts=split_stone_once(stone)\n    if n==1:\n        return len(one_time_parts)\n    key=(stone,n)\n    if key in cache:\n        return cache[key]\n    s=0\n    for p in one_time_parts:\n        s+=split_stone_n_time(p,n-1)",
+        "detail": "2024.main.11.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2024.main.11.main",
+        "description": "2024.main.11.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    stones=[]\n    for l in lines:\n        stones=[int(p) for  p  in l.split(' ')]\n    s=0\n    for stone in stones:\n        s+=split_stone_n_time(stone,75)\n    print('done')",
+        "detail": "2024.main.11.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_value",
+        "kind": 2,
+        "importPath": "2024.main.12.main",
+        "description": "2024.main.12.main",
+        "peekOfCode": "def get_value(data,i,j):\n    if i<0 or j<0 or i>=len(data) or j>=len(data[0]):\n        return None\n    return data[i][j]\ndef find_region(data,processed_fields:set,field:tuple):\n    if field in processed_fields:\n        return None\n    region=[field]\n    processed_fields.add(field)\n    i,j=field",
+        "detail": "2024.main.12.main",
+        "documentation": {}
+    },
+    {
+        "label": "find_region",
+        "kind": 2,
+        "importPath": "2024.main.12.main",
+        "description": "2024.main.12.main",
+        "peekOfCode": "def find_region(data,processed_fields:set,field:tuple):\n    if field in processed_fields:\n        return None\n    region=[field]\n    processed_fields.add(field)\n    i,j=field\n    c_v=get_value(data,i,j)\n    for c in [(0,1),(1,0),(-1,0),(0,-1)]:\n        n_i=i+c[0]\n        n_j=j+c[1]",
+        "detail": "2024.main.12.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2024.main.12.main",
+        "description": "2024.main.12.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    data=[l for l in lines]\n    h=len(data)\n    w=len(data[0])\n    processed_fields=set()\n    regions=[]\n    for i in range(h):\n        for j in range(w):",
+        "detail": "2024.main.12.main",
+        "documentation": {}
+    },
+    {
+        "label": "parse_data",
+        "kind": 2,
+        "importPath": "2024.main.13.main",
+        "description": "2024.main.13.main",
+        "peekOfCode": "def parse_data(line, regex):\n    m = re.match(regex, line)\n    if not m:\n        raise Exception(\"not a match: \", line, regex)\n    x = int(m.group(1).strip())\n    y = int(m.group(2).strip())\n    return (x, y)\nCOST_A = 3\nCOST_B = 1\n# A: 3 tokens",
+        "detail": "2024.main.13.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_cost",
+        "kind": 2,
+        "importPath": "2024.main.13.main",
+        "description": "2024.main.13.main",
+        "peekOfCode": "def get_cost(button_a, button_b, prize):\n    a_p_x = prize[0] / button_a[0]\n    a_p_y = prize[1] / button_a[1]\n    a_m_p = max(a_p_x, a_p_y)\n    b_p_x = prize[0] / button_b[0]\n    b_p_y = prize[1] / button_b[1]\n    b_m_p = max(b_p_x, b_p_y)\n    c_a = a_m_p * COST_A\n    c_b = b_m_p * COST_B\n    price = 0",
+        "detail": "2024.main.13.main",
+        "documentation": {}
+    },
+    {
+        "label": "find_cost_h",
+        "kind": 2,
+        "importPath": "2024.main.13.main",
+        "description": "2024.main.13.main",
+        "peekOfCode": "def find_cost_h(primary_button, primary_cost, secondary_button, secondary_cost, prize):\n    pb_p_x = prize[0] / primary_button[0]\n    pb_p_y = prize[1] / primary_button[1]\n    pb_m_p = int(max(pb_p_x, pb_p_y))+1\n    for i in range(pb_m_p, -1, -1):\n        rx = prize[0] - primary_button[0] * i\n        ry = prize[1] - primary_button[1] * i\n        if rx < 0 or ry < 0:\n            continue\n        if rx % secondary_button[0] != 0 or ry % secondary_button[1] != 0:",
+        "detail": "2024.main.13.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2024.main.13.main",
+        "description": "2024.main.13.main",
+        "peekOfCode": "def do_your_magic1():\n    s = 0\n    lines = list(utils.read_file_content(FILE))\n    for i in range(0, len(lines), 3):\n        button_a = parse_data(lines[i], r_button_a)\n        button_b = parse_data(lines[i + 1], r_button_b)\n        prize = parse_data(lines[i + 2], r_prize)\n        # prize=(prize[0]+10000000000000,prize[1]+10000000000000)\n        cost = get_cost(button_a, button_b, prize)\n        if cost:",
+        "detail": "2024.main.13.main",
+        "documentation": {}
+    },
+    {
+        "label": "FILE",
+        "kind": 5,
+        "importPath": "2024.main.13.main",
+        "description": "2024.main.13.main",
+        "peekOfCode": "FILE = \"./data2\"\nr_button_a = r\"Button A: X\\+(\\d*), Y\\+(\\d*)\"\nr_button_b = r\"Button B: X\\+(\\d*), Y\\+(\\d*)\"\nr_prize = r\"Prize: X=(\\d*), Y=(\\d*)\"\ndef parse_data(line, regex):\n    m = re.match(regex, line)\n    if not m:\n        raise Exception(\"not a match: \", line, regex)\n    x = int(m.group(1).strip())\n    y = int(m.group(2).strip())",
+        "detail": "2024.main.13.main",
+        "documentation": {}
+    },
+    {
+        "label": "r_button_a",
+        "kind": 5,
+        "importPath": "2024.main.13.main",
+        "description": "2024.main.13.main",
+        "peekOfCode": "r_button_a = r\"Button A: X\\+(\\d*), Y\\+(\\d*)\"\nr_button_b = r\"Button B: X\\+(\\d*), Y\\+(\\d*)\"\nr_prize = r\"Prize: X=(\\d*), Y=(\\d*)\"\ndef parse_data(line, regex):\n    m = re.match(regex, line)\n    if not m:\n        raise Exception(\"not a match: \", line, regex)\n    x = int(m.group(1).strip())\n    y = int(m.group(2).strip())\n    return (x, y)",
+        "detail": "2024.main.13.main",
+        "documentation": {}
+    },
+    {
+        "label": "r_button_b",
+        "kind": 5,
+        "importPath": "2024.main.13.main",
+        "description": "2024.main.13.main",
+        "peekOfCode": "r_button_b = r\"Button B: X\\+(\\d*), Y\\+(\\d*)\"\nr_prize = r\"Prize: X=(\\d*), Y=(\\d*)\"\ndef parse_data(line, regex):\n    m = re.match(regex, line)\n    if not m:\n        raise Exception(\"not a match: \", line, regex)\n    x = int(m.group(1).strip())\n    y = int(m.group(2).strip())\n    return (x, y)\nCOST_A = 3",
+        "detail": "2024.main.13.main",
+        "documentation": {}
+    },
+    {
+        "label": "r_prize",
+        "kind": 5,
+        "importPath": "2024.main.13.main",
+        "description": "2024.main.13.main",
+        "peekOfCode": "r_prize = r\"Prize: X=(\\d*), Y=(\\d*)\"\ndef parse_data(line, regex):\n    m = re.match(regex, line)\n    if not m:\n        raise Exception(\"not a match: \", line, regex)\n    x = int(m.group(1).strip())\n    y = int(m.group(2).strip())\n    return (x, y)\nCOST_A = 3\nCOST_B = 1",
+        "detail": "2024.main.13.main",
+        "documentation": {}
+    },
+    {
+        "label": "COST_A",
+        "kind": 5,
+        "importPath": "2024.main.13.main",
+        "description": "2024.main.13.main",
+        "peekOfCode": "COST_A = 3\nCOST_B = 1\n# A: 3 tokens\n# B: 1 token\n# Button A: X+94, Y+34\n# Button B: X+22, Y+67\n# Prize: X=8400, Y=5400\ndef get_cost(button_a, button_b, prize):\n    a_p_x = prize[0] / button_a[0]\n    a_p_y = prize[1] / button_a[1]",
+        "detail": "2024.main.13.main",
+        "documentation": {}
+    },
+    {
+        "label": "COST_B",
+        "kind": 5,
+        "importPath": "2024.main.13.main",
+        "description": "2024.main.13.main",
+        "peekOfCode": "COST_B = 1\n# A: 3 tokens\n# B: 1 token\n# Button A: X+94, Y+34\n# Button B: X+22, Y+67\n# Prize: X=8400, Y=5400\ndef get_cost(button_a, button_b, prize):\n    a_p_x = prize[0] / button_a[0]\n    a_p_y = prize[1] / button_a[1]\n    a_m_p = max(a_p_x, a_p_y)",
+        "detail": "2024.main.13.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_frist_invalid_level",
+        "kind": 2,
+        "importPath": "2024.main.2.main",
+        "description": "2024.main.2.main",
+        "peekOfCode": "def get_frist_invalid_level(levels:list):\n    negative = None\n    for i in range(1,len(levels)):\n        diff=levels[i]-levels[i-1]\n        if negative is not None:\n            if negative and diff>0:\n                return i\n            if not negative and diff<0:\n                return i\n        else:",
+        "detail": "2024.main.2.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2024.main.2.main",
+        "description": "2024.main.2.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    for l in lines:\n        nums=[int(n) for n in l.split(' ')]\n        ii1=get_frist_invalid_level(nums)\n        ii2=get_frist_invalid_level(nums[1:])\n        if ii1==-1 or ii2==-1:\n            s+=1\n            continue",
+        "detail": "2024.main.2.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2024.main.3.main",
+        "description": "2024.main.3.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    state=STATE_SEARCH_MUL\n    dodont=None\n    for l in lines:\n        ll=len(l)\n        i=0\n        first_digit=''\n        second_digit=''",
+        "detail": "2024.main.3.main",
+        "documentation": {}
+    },
+    {
+        "label": "is_match1",
+        "kind": 2,
+        "importPath": "2024.main.4.main",
+        "description": "2024.main.4.main",
+        "peekOfCode": "def is_match1(data,i,j,delta_i,delta_j):\n    # searching for XMAS\n    word=''\n    for c in range(0,4):\n        word+=data[i][j]\n        i+=delta_i\n        j+=delta_j\n        if i<0 or j<0 or i>=len(data) or j>=len(data[0]):\n            break\n    return word=='XMAS'",
+        "detail": "2024.main.4.main",
+        "documentation": {}
+    },
+    {
+        "label": "is_match2",
+        "kind": 2,
+        "importPath": "2024.main.4.main",
+        "description": "2024.main.4.main",
+        "peekOfCode": "def is_match2(data,i,j,delta_i,delta_j):\n    # searching for MAS\n    word=''\n    for c in range(0,3):\n        if i<0 or j<0 or i>=len(data) or j>=len(data[0]):\n            break\n        word+=data[i][j]\n        i+=delta_i\n        j+=delta_j\n        if i<0 or j<0 or i>=len(data) or j>=len(data[0]):",
+        "detail": "2024.main.4.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2024.main.4.main",
+        "description": "2024.main.4.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    data=[]\n    for l in lines:\n        ld=[]\n        for c in l:\n            ld.append(c)\n        data.append(ld)\n    n_r=len(data)",
+        "detail": "2024.main.4.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2024.main.5.main",
+        "description": "2024.main.5.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    rules=set()\n    updates=[]\n    for l in lines:\n        if '|' in l:\n            #p=l.split('|')\n            #rules.append(int(p[0]),int(p[1]))\n            rules.add(l)",
+        "detail": "2024.main.5.main",
+        "documentation": {}
+    },
+    {
+        "label": "Direction",
+        "kind": 6,
+        "importPath": "2024.main.6.main",
+        "description": "2024.main.6.main",
+        "peekOfCode": "class Direction(Enum):\n    UP=1\n    DOWN=2\n    LEFT=3\n    RIGHT=4\nFILE='./data2'\nclass Point:\n    def __init__(self, x:int, y:int) -> None:\n        self.x=x\n        self.y=y",
+        "detail": "2024.main.6.main",
+        "documentation": {}
+    },
+    {
+        "label": "Point",
+        "kind": 6,
+        "importPath": "2024.main.6.main",
+        "description": "2024.main.6.main",
+        "peekOfCode": "class Point:\n    def __init__(self, x:int, y:int) -> None:\n        self.x=x\n        self.y=y\n    def in_area(self,mx,my)->bool:\n        return 0 <= self.x < mx and 0 <= self.y < my\n    def __hash__(self):\n        return hash((self.x, self.y))\n    def __eq__(self, other):\n        if isinstance(other, Point):",
+        "detail": "2024.main.6.main",
+        "documentation": {}
+    },
+    {
+        "label": "Guard",
+        "kind": 6,
+        "importPath": "2024.main.6.main",
+        "description": "2024.main.6.main",
+        "peekOfCode": "class Guard:\n    def __init__(self,location, direction=Direction.UP) -> None:\n        self.location=location\n        self.direction=direction\n    def clone(self):\n        return Guard(location=self.location, direction=self.direction)\n    def turn_right(self):\n        if self.direction==Direction.UP:\n            self.direction=Direction.RIGHT\n        elif self.direction==Direction.RIGHT:",
+        "detail": "2024.main.6.main",
+        "documentation": {}
+    },
+    {
+        "label": "Line",
+        "kind": 6,
+        "importPath": "2024.main.6.main",
+        "description": "2024.main.6.main",
+        "peekOfCode": "class Line:\n    def __init__(self,sp,ep) -> None:\n        self.sp=sp\n        self.ep=ep\n    def is_horizontal(self):\n        return self.sp.y==self.ep.y\ndef solution1(guard,obsticals,mx,my):\n    s=0\n    distinct_locations={}\n    #distinct_locations=set",
+        "detail": "2024.main.6.main",
+        "documentation": {}
+    },
+    {
+        "label": "solution1",
+        "kind": 2,
+        "importPath": "2024.main.6.main",
+        "description": "2024.main.6.main",
+        "peekOfCode": "def solution1(guard,obsticals,mx,my):\n    s=0\n    distinct_locations={}\n    #distinct_locations=set\n    c=0\n    all_new_obsticals=set()\n    while True:\n        c+=1\n        print(f'\\r{c}/6220')\n        if guard.location not in distinct_locations:",
+        "detail": "2024.main.6.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2024.main.6.main",
+        "description": "2024.main.6.main",
+        "peekOfCode": "def do_your_magic1():\n    lines=list(utils.read_file_content(FILE))\n    my=len(lines)\n    mx=len(lines[0])\n    obsticals=set()\n    guard=None\n    for y,l in enumerate(lines):\n        for x,c in enumerate(l):\n            if c=='#':\n                obsticals.add(Point(x,y))",
+        "detail": "2024.main.6.main",
+        "documentation": {}
+    },
+    {
+        "label": "can_be_calculated",
+        "kind": 2,
+        "importPath": "2024.main.7.main",
+        "description": "2024.main.7.main",
+        "peekOfCode": "def can_be_calculated(test_result,numbers):\n    if len(numbers)==1:\n        return test_result==numbers[0]\n    t1=test_result-numbers[0]\n    c1=can_be_calculated(t1,numbers[1:])\n    t2=test_result/numbers[0]\n    c2=can_be_calculated(t2,numbers[1:])\n    return c1 or c2\n    # 3267 = 81 + 40 * 27\n    # c = a + b",
+        "detail": "2024.main.7.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_solutions",
+        "kind": 2,
+        "importPath": "2024.main.7.main",
+        "description": "2024.main.7.main",
+        "peekOfCode": "def get_all_solutions(numbers,max_limit):\n        if numbers[0]>max_limit:\n             return set()\n        if len(numbers)==1:\n            return set([numbers[0]])\n        r=set()\n        cn1=[n for n in numbers[1:]]\n        cn1[0]=numbers[0]+numbers[1]\n        r1=get_all_solutions(cn1,max_limit)\n        cn2=[n for n in numbers[1:]]",
+        "detail": "2024.main.7.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2024.main.7.main",
+        "description": "2024.main.7.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    for i,l in enumerate(lines):\n        parts=l.split(':')\n        test_result=int(parts[0].strip())\n        numbers=[int(n.strip()) for n in parts[1].strip().split(' ')]\n        #numbers.reverse()\n        r=get_all_solutions(numbers,test_result)\n        print(i)",
+        "detail": "2024.main.7.main",
+        "documentation": {}
+    },
+    {
+        "label": "Anthena",
+        "kind": 6,
+        "importPath": "2024.main.8.main",
+        "description": "2024.main.8.main",
+        "peekOfCode": "class Anthena:\n    def __init__(self,f,x,y) -> None:\n        self.f=f\n        self.x=x\n        self.y=y\n    def __repr__(self) -> str:\n        return f'{self.f}({self.x},{self.y})'\ndef do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))",
+        "detail": "2024.main.8.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2024.main.8.main",
+        "description": "2024.main.8.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    my=len(lines)\n    mx=len(lines[0])\n    anthenas_by_frequency=defaultdict(list)\n    for y,l in enumerate(lines):\n        for x,c in enumerate(l):\n            if c=='.':\n                continue",
+        "detail": "2024.main.8.main",
+        "documentation": {}
+    },
+    {
+        "label": "solution1",
+        "kind": 2,
+        "importPath": "2024.main.9.main",
+        "description": "2024.main.9.main",
+        "peekOfCode": "def solution1(file_system):\n    i=0\n    j=len(file_system)-1        \n    while True:\n        if i>j:\n            break\n        if file_system[i]!=-1:\n            i+=1\n            continue\n        if file_system[j]==-1:",
+        "detail": "2024.main.9.main",
+        "documentation": {}
+    },
+    {
+        "label": "solution2",
+        "kind": 2,
+        "importPath": "2024.main.9.main",
+        "description": "2024.main.9.main",
+        "peekOfCode": "def solution2(file_system, free_spaces):\n    j=len(file_system)-1        \n    while j>0:\n        if file_system[j]==-1:\n            j-=1\n            continue\n        size=1\n        while file_system[j-size]==file_system[j]:\n            size+=1\n        #print(file_system[j-size],'<->',file_system[j])",
+        "detail": "2024.main.9.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2024.main.9.main",
+        "description": "2024.main.9.main",
+        "peekOfCode": "def do_your_magic1():\n    s=0\n    lines=list(utils.read_file_content(FILE))\n    file_system=[]\n    free_spaces=[PriorityQueue() for _ in range(10)]\n    for l in lines:\n        file_id=0\n        for i in range(0,len(l),2):\n            file_system+=[file_id]*int(l[i])\n            if (i+1)<len(l) and int(l[i+1])>0:",
+        "detail": "2024.main.9.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_your_magic1",
+        "kind": 2,
+        "importPath": "2024.main.boilerplate.main",
+        "description": "2024.main.boilerplate.main",
+        "peekOfCode": "def do_your_magic1():\n    s = 0\n    lines = list(utils.read_file_content(FILE))\n    for l in lines:\n        pass\n    print('done')\n    print(s)\ndo_your_magic1()",
+        "detail": "2024.main.boilerplate.main",
+        "documentation": {}
+    },
+    {
+        "label": "FILE",
+        "kind": 5,
+        "importPath": "2024.main.boilerplate.main",
+        "description": "2024.main.boilerplate.main",
+        "peekOfCode": "FILE = './data1'\ndef do_your_magic1():\n    s = 0\n    lines = list(utils.read_file_content(FILE))\n    for l in lines:\n        pass\n    print('done')\n    print(s)\ndo_your_magic1()",
+        "detail": "2024.main.boilerplate.main",
+        "documentation": {}
+    },
+    {
+        "label": "read_file_content",
+        "kind": 2,
+        "importPath": "2024.utils.utils",
+        "description": "2024.utils.utils",
+        "peekOfCode": "def read_file_content(file_path:str) -> list[str]:\n    with open(file_path, 'r') as file:\n        for line in file:\n            ls=line.strip().rstrip('\\n')\n            if not ls:\n                continue\n            yield ls",
+        "detail": "2024.utils.utils",
+        "documentation": {}
+    }
+]

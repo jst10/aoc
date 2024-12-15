@@ -7,7 +7,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")
 
 from utils import utils
 
-FILE='./data1'
+FILE='./data2'
 
 def get_value(data,i,j):
     if i<0 or j<0 or i>=len(data) or j>=len(data[0]):
@@ -51,39 +51,37 @@ def do_your_magic1():
     s=0
     for region in regions:
         sides=0
-        outline=set()
+        horizontal=[]
+        vertical=[]
         for field in region:
             i,j=field
-            for c in [(0,1),(1,0),(-1,0),(0,-1)]:
-                n_i=i+c[0]
-                n_j=j+c[1]
-                if (n_i,n_j) not in region:
-                    #sides+=1
-                    outline.add((n_i,n_j))
+
+            for d in [-1,1]:
+                if (i,j+d) not in region:
+                    vertical.append((i,j+d/10))
+                if (i+d,j) not in region:
+                    horizontal.append((i+d/10,j))
         # part 2
-        print(len(outline))
         sides=0
-        outline_l=list(outline)
-        horizontal=sorted(outline_l, key=lambda x: (x[1], x[0]))
         previous=None
-        print('horizontal')
-        print(horizontal)
-        for f in horizontal:
-            if previous is None or previous[1]!=f[1] or previous[0]+1!=f[0]:
-                sides+=1
-            previous=f
-        vertical=sorted(outline_l, key=lambda x: (x[0], x[1]))
-        previous=None
-        print('vertical')
-        print(vertical)
-        for f in vertical:
+        horizontal_sorted=sorted(list(horizontal), key=lambda x: (x[0], x[1]))
+        for f in horizontal_sorted:
             if previous is None or previous[0]!=f[0] or previous[1]+1!=f[1]:
                 sides+=1
             previous=f
-        print('sides: ',sides)
+        previous=None
+        
+        vertical_sorted=sorted(list(vertical), key=lambda x: (x[1], x[0]))
+        for f in vertical_sorted:
+            if previous is None or previous[1]!=f[1] or previous[0]+1!=f[0]:
+                sides+=1
+            previous=f
         s+=(len(region)*sides)
     print(len(regions))
     print('done')
     print(s)
         
 do_your_magic1()
+
+
+# 838988

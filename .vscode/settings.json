@@ -1,0 +1,5 @@
+{
+    "python.sortImports.args": [
+        "--no-reorder"
+    ]
+}
